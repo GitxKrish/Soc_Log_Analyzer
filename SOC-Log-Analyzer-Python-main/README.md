@@ -8,7 +8,7 @@
 
 ## Overview
 
-SOC analysts spend much of their time reviewing logs to detect malicious activity. This project automates the analysis of Linux and web server log files by identifying common Indicators of Compromise (IOCs) and generating a simple security report.
+Developed a Python-based security tool that analyzes system and web logs to identify suspicious activities, repeated authentication failures, brute-force patterns, and unusual requests, generating reports to support basic SOC monitoring and incident investigation.
 
 The project demonstrates fundamental blue-team skills including log analysis, event correlation, threat detection, and incident reporting.
 
